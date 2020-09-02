@@ -1,0 +1,17 @@
+.search{
+    margin-top:7%;
+}
+
+.searchButton{
+    margin-top:2%;
+    justify-content: center;
+}
+
+.searchButton >button{
+    margin:5px;
+    padding:7px 15px;
+    background-color:#f8f8f8;
+    border:1px solid white;
+    text-transform: inherit;
+    color:#5f6368;
+}
