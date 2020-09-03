@@ -22,7 +22,7 @@ function Search() {
 
 
     useEffect(() => {
-        fetch("https://www.omdbapi.com/?t=" + searchTerm + "&apikey=f9f23e7e").then(
+        fetch("http://www.omdbapi.com/?t=" + searchTerm + "&apikey=f9f23e7e").then(
             res => res.json()).then(
                 data => setMovieData(data)
             )

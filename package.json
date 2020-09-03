@@ -2,7 +2,7 @@
   "name": "movie-search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://iiitvamsi.github.io/movie-omdb",
+  "homepage": "http://iiitvamsi.github.io/movie-omdb",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
